@@ -1,2 +1,2 @@
-# YouGene Annotate
+# GeeNomics Annotate
 While the genome sequencing revolution has led to the sequencing and assembly of many thousands of new genomes, genome annotation still uses very nearly the same technology that we have used for the past two decades. The sheer number of genomes necessitates the use of fully automated procedures for annotation, but errors in annotation are just as prevalent as they were in the past, if not more so. How are we to solve this growing problem?
